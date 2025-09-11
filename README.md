@@ -1,4 +1,4 @@
-Welcome to Brian McCarthy's GitHub profile! 
+Welcome to Brian McCarthy's GitHub profile! 👋 😊
 
 I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow developers. 
 Feel free to explore my repositories and reach out—let's create something awesome together!
