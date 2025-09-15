@@ -6,3 +6,6 @@ Feel free to explore my repositories and reach out—let's create something awes
 🔗 Let's connect! 
 Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
 Happy coding! 🚀
+
+<img width="1200" height="387" alt="image" src="https://github.com/user-attachments/assets/d1ae7fd2-dd42-4ea4-810e-fd164ae392b6" />
+<img width="1273" height="506" alt="image" src="https://github.com/user-attachments/assets/2cac0f31-1da9-4010-a4f6-f27a14fccebb" />
