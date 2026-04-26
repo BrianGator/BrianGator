@@ -2,11 +2,11 @@ Welcome to Brian McCarthy's GitHub profile! 👋 😊
 
 I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow developers. <br>
 Feel free to explore my repositories and reach out! Let's create something awesome together! <br>
-Test Automation Technologies used include: Selenium, Playwright, Cucumber, Cypress, Ranorex, HP QTP <br>
+Test Automation Technologies used include: Selenium, Playwright, Appium, WinAppDriver, Cucumber, Cypress, Ranorex, HP QTP <br>
 Programming Technologies used include: Java, Javascript, Typsescript, Python, SQL, C#, ASP.NET, etc <br> 
+API Testing Technologies used include: Postman, Swagger, SoapUI, REST Assured <br> 
 
-🔗 Let's connect! 
-Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
+🔗 Let's connect! Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
 Happy coding! 🚀
 
 <img width="1200" height="387" alt="image" src="https://github.com/user-attachments/assets/d1ae7fd2-dd42-4ea4-810e-fd164ae392b6" />
