@@ -5,6 +5,7 @@ Feel free to explore my repositories and reach out—let's create something awes
 
 🔗 Let's connect! 
 Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
+Programming Technologies used include: Selenium, Playwright, Cucumber, Cypress, Java, Javascript, Typsescript, Python, SQL, C#, etc  
 Happy coding! 🚀
 
 <img width="1200" height="387" alt="image" src="https://github.com/user-attachments/assets/d1ae7fd2-dd42-4ea4-810e-fd164ae392b6" />
