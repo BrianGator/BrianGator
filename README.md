@@ -2,7 +2,7 @@ Welcome to Brian McCarthy's GitHub profile! 👋 😊
 
 I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow developers. <br>
 Feel free to explore my repositories and reach out! Let's create something awesome together! <br>
-Test Automation Technologies used include: Selenium, Playwright, Appium, WinAppDriver, Cucumber, Cypress, Ranorex, HP QTP <br>
+Test Automation Technologies used include: Selenium, Playwright, Appium, WinAppDriver, Cucumber, Cypress <br>
 Programming Technologies used include: Java, Javascript, Typsescript, Python, SQL, C#, ASP.NET, etc <br> 
 API Testing Technologies used include: Postman, Swagger, SoapUI, REST Assured <br> 
 
