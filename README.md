@@ -1,5 +1,5 @@
 Welcome to Brian McCarthy's GitHub profile! 👋 😊
-I'm a Software QA Engineer located in Tampa FL USA! 🇺🇸 👨‍💻📲🤖📀 <br> 
+I'm a Senior Lead Software QA Engineer located in Tampa FL USA! 🇺🇸 👨‍💻📲🤖📀 <br> 
 I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow Software Developers or Software QA Engineers. 
 Feel free to explore my practice non-work related repositories and reach out! Let's create something awesome together! <br>
 
