@@ -1,5 +1,5 @@
 Welcome to Brian McCarthy's GitHub profile! 👋 😊
-
+I'm a Software QA Engineer located in Tampa FL USA! 🇺🇸 👨‍💻📲🤖📀
 I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow Software Developers or Software QA Engineers. <br>
 Feel free to explore my practice non-work related repositories and reach out! Let's create something awesome together! <br>
 
@@ -7,7 +7,7 @@ API Testing Technologies used include: Postman, Swagger, SoapUI, REST Assured <b
 Test Automation Technologies used include: Selenium, Playwright, Appium, WinAppDriver, Cucumber, Cypress <br>
 Programming Technologies used include: Java, Javascript, Typsescript, Python, SQL, C#, ASP.NET, etc <br> 
 
-🔗 Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
+Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> 📧 or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a> 🔗👔!
 Happy coding! 🚀
 
 <img width="1200" height="387" alt="image" src="https://github.com/user-attachments/assets/d1ae7fd2-dd42-4ea4-810e-fd164ae392b6" />
