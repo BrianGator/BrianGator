@@ -1,10 +1,9 @@
 Welcome to Brian McCarthy's GitHub profile! 👋 😊
 
-I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow developers. 
-Feel free to explore my repositories and reach out! Let's create something awesome together!
-
-Test Automation Technologies used include: Selenium, Playwright, Cucumber, Cypress 
-Programming Technologies used include: Java, Javascript, Typsescript, Python, SQL, C#, ASP.NET, etc  
+I'm always open to collaboration, learning new technologies, and exchanging ideas with fellow developers. <br>
+Feel free to explore my repositories and reach out! Let's create something awesome together! <br>
+Test Automation Technologies used include: Selenium, Playwright, Cucumber, Cypress, Ranorex, HP QTP <br>
+Programming Technologies used include: Java, Javascript, Typsescript, Python, SQL, C#, ASP.NET, etc <br> 
 
 🔗 Let's connect! 
 Feel free to <a href="mailto:briansmc@gmail.com">Email me</a> or add me on <a href="https://www.linkedin.com/in/briansmccarthy/">LinkedIn</a>!
