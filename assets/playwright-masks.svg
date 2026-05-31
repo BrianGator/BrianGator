@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="38" viewBox="0 0 210 38" role="img" aria-label="Playwright">
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="38" viewBox="0 0 180 38" role="img" aria-label="Playwright">
   <title>Playwright</title>
-  <rect width="210" height="38" rx="6" fill="#ffffff"/>
-  <g transform="translate(7 4)">
+  <rect width="180" height="38" rx="6" fill="#ffffff"/>
+  <g transform="translate(4 4)">
     <g transform="rotate(-12 13 15)">
       <path d="M3 2 C9 6 18 6 26 2 C27 13 24 23 15 29 C7 24 2 15 3 2 Z" fill="#d64b3c" stroke="#8f2f28" stroke-width="1"/>
       <circle cx="10" cy="13" r="2.4" fill="#ffffff"/>
@@ -15,5 +15,5 @@
       <path d="M9 21 C14 25 21 25 25 20" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
     </g>
   </g>
-  <text x="63" y="25" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111111">Playwright</text>
+  <text x="56" y="25" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111111">Playwright</text>
 </svg>
