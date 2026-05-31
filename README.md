@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Brian McCarthy 👋</h1>
+<h1 align="center">Brian McCarthy</h1>
 
 <p align="center">
-  <strong>Senior Lead Software QA Engineer | QA Automation | Business Analyst | Product / Project Management | AI & Cloud Portfolio</strong>
+  <strong>Senior Lead Software QA Engineer | QA Automation | Business Analyst | Product / Project Management | SDET | Full Stack Developer</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I'm always open to collaboration, learning new technologies, and exchanging idea
 
 ---
 
-## Technology Graphics
+## Repository Technologies include:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -34,6 +34,7 @@ I'm always open to collaboration, learning new technologies, and exchanging idea
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -51,13 +52,13 @@ I'm always open to collaboration, learning new technologies, and exchanging idea
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
-
-## Current Profile Graphics
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f0d09ce0-e35b-4bd9-88a9-ff55bfab0cc4" />
 
