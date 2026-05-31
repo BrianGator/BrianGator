@@ -18,7 +18,7 @@ Welcome to Brian McCarthy's GitHub profile! 👋 😊 I'm a Senior Lead Software
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="./assets/playwright-masks.svg" alt="Playwright" height="28" />
+  <img src="https://raw.githubusercontent.com/BrianGator/BrianGator/main/assets/playwright-masks.svg?v=6ad8a207" alt="Playwright" height="24" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
